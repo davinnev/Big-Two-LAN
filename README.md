@@ -8,3 +8,5 @@ How to run this program?
 4. Enjoy!
 
 This game also features interactive chat and dynamic announcement textboxes!
+
+<img width="1435" alt="Screenshot 2023-01-07 at 3 40 52 PM" src="https://user-images.githubusercontent.com/98953339/211141935-708239c4-d2d6-42b6-94ac-230c30e462cb.png">
